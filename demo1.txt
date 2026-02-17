@@ -1,0 +1,1 @@
+This package installs a prebuilt version of the PyAudio library that includes PortAudio v19 (19.7.0). It is compiled with support for Windows audio interfaces such as MME, DirectSound, WASAPI, and WDM-KS. However, ASIO support is not provided in this build. If you need additional API support, you must manually compile both PortAudio and PyAudio yourself.
